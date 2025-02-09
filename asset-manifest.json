@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cd862970.css",
+    "main.js": "./static/js/main.3bad22e9.js",
+    "static/js/488.6d5d2703.chunk.js": "./static/js/488.6d5d2703.chunk.js",
+    "static/media/base17.png": "./static/media/base17.2acb3b550ef69383736f.png",
+    "static/media/base0.png": "./static/media/base0.74fba3075d99c6f8e60c.png",
+    "static/media/home-icon.png": "./static/media/home-icon.cc7df4b098b83dad5693.png",
+    "static/media/grava-semibold.OTF": "./static/media/grava-semibold.a7416eb3b15fe656d80c.OTF",
+    "static/media/grava-roman.OTF": "./static/media/grava-roman.3f99de7db5908bea8061.OTF",
+    "static/media/gcash.png": "./static/media/gcash.967c51ed207a355fbb05.png",
+    "static/media/paypal.png": "./static/media/paypal.04b3edb65b438fe60d98.png",
+    "static/media/dc.png": "./static/media/dc.945b6883aa42b7c86193.png",
+    "static/media/tiktok.webp": "./static/media/tiktok.499ddc7dfc83a535ac23.webp",
+    "static/media/youtube.webp": "./static/media/youtube.0212d0516499993edbbc.webp",
+    "index.html": "./index.html",
+    "main.cd862970.css.map": "./static/css/main.cd862970.css.map",
+    "main.3bad22e9.js.map": "./static/js/main.3bad22e9.js.map",
+    "488.6d5d2703.chunk.js.map": "./static/js/488.6d5d2703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd862970.css",
+    "static/js/main.3bad22e9.js"
+  ]
+}
