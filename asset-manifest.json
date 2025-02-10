@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.bb5ff1f9.css",
-    "main.js": "./static/js/main.f2217573.js",
+    "main.css": "./static/css/main.028320f9.css",
+    "main.js": "./static/js/main.5ff4782a.js",
     "static/js/488.17e6dda1.chunk.js": "./static/js/488.17e6dda1.chunk.js",
     "static/media/Screenshot 2024-10-22 163245.png": "./static/media/Screenshot 2024-10-22 163245.7b02a203379204891af6.png",
     "static/media/Screenshot 2024-10-13 065937.png": "./static/media/Screenshot 2024-10-13 065937.446f700eee827c9237f2.png",
@@ -52,20 +52,26 @@
     "static/media/Screenshot 2024-09-05 182042.png": "./static/media/Screenshot 2024-09-05 182042.163929d411a926487236.png",
     "static/media/Screenshot 2024-09-13 044826.png": "./static/media/Screenshot 2024-09-13 044826.c13e0e7b0d2fe9185aea.png",
     "static/media/home-icon.png": "./static/media/home-icon.cc7df4b098b83dad5693.png",
+    "static/media/image2.png": "./static/media/image2.40ea36001286cdf31b92.png",
     "static/media/grava-semibold.OTF": "./static/media/grava-semibold.a7416eb3b15fe656d80c.OTF",
+    "static/media/image6.png": "./static/media/image6.d761e2f952605f85e3b5.png",
+    "static/media/image5.png": "./static/media/image5.0d028ffb34d05c245def.png",
     "static/media/grava-roman.OTF": "./static/media/grava-roman.3f99de7db5908bea8061.OTF",
+    "static/media/image1.png": "./static/media/image1.ec9d5ba17b077804b541.png",
+    "static/media/image3.png": "./static/media/image3.7ccfe4ce317932113f36.png",
+    "static/media/image4.png": "./static/media/image4.d8028a316a8ea41b5d3c.png",
     "static/media/gcash.png": "./static/media/gcash.967c51ed207a355fbb05.png",
     "static/media/paypal.png": "./static/media/paypal.04b3edb65b438fe60d98.png",
     "static/media/dc.png": "./static/media/dc.945b6883aa42b7c86193.png",
     "static/media/tiktok.webp": "./static/media/tiktok.499ddc7dfc83a535ac23.webp",
     "static/media/youtube.webp": "./static/media/youtube.0212d0516499993edbbc.webp",
     "index.html": "./index.html",
-    "main.bb5ff1f9.css.map": "./static/css/main.bb5ff1f9.css.map",
-    "main.f2217573.js.map": "./static/js/main.f2217573.js.map",
+    "main.028320f9.css.map": "./static/css/main.028320f9.css.map",
+    "main.5ff4782a.js.map": "./static/js/main.5ff4782a.js.map",
     "488.17e6dda1.chunk.js.map": "./static/js/488.17e6dda1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb5ff1f9.css",
-    "static/js/main.f2217573.js"
+    "static/css/main.028320f9.css",
+    "static/js/main.5ff4782a.js"
   ]
 }
