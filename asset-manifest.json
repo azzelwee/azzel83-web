@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.38f67978.css",
-    "main.js": "./static/js/main.09c4da1a.js",
+    "main.js": "./static/js/main.8810ecc0.js",
     "static/js/488.17e6dda1.chunk.js": "./static/js/488.17e6dda1.chunk.js",
     "static/media/Screenshot 2025-04-17 225156.png": "./static/media/Screenshot 2025-04-17 225156.3662d000f997b4e1307a.png",
     "static/media/Screenshot 2024-10-22 163245.png": "./static/media/Screenshot 2024-10-22 163245.7b02a203379204891af6.png",
@@ -37,10 +37,12 @@
     "static/media/Screenshot 2025-08-13 222854.png": "./static/media/Screenshot 2025-08-13 222854.6d5b20fe949cfd5c7c73.png",
     "static/media/Screenshot 2024-10-30 104553.png": "./static/media/Screenshot 2024-10-30 104553.a179811231d2fb44727c.png",
     "static/media/Screenshot 2025-08-19 220445.png": "./static/media/Screenshot 2025-08-19 220445.fbd6db08c5a00361ef86.png",
+    "static/media/Screenshot 2025-10-07 205043.png": "./static/media/Screenshot 2025-10-07 205043.362ea8753b68efbb9654.png",
     "static/media/base0.png": "./static/media/base0.74fba3075d99c6f8e60c.png",
     "static/media/Screenshot 2025-07-14 184113.png": "./static/media/Screenshot 2025-07-14 184113.562e9b8f5c74060c466c.png",
     "static/media/Screenshot 2024-11-27 200131.png": "./static/media/Screenshot 2024-11-27 200131.713215738c1813d7a5d7.png",
     "static/media/Screenshot 2024-08-12 170243.png": "./static/media/Screenshot 2024-08-12 170243.a1ae9f3882a839573ba9.png",
+    "static/media/Screenshot 2025-10-10 223544.png": "./static/media/Screenshot 2025-10-10 223544.cb4b50a6931accdd814a.png",
     "static/media/Screenshot 2024-07-28 012938.png": "./static/media/Screenshot 2024-07-28 012938.0b6c065c0ec0985b4123.png",
     "static/media/Screenshot 2025-02-05 090233.png": "./static/media/Screenshot 2025-02-05 090233.e87eac23a9e811b9780f.png",
     "static/media/Screenshot 2025-05-13 112405.png": "./static/media/Screenshot 2025-05-13 112405.488a1011967eb24b3092.png",
@@ -50,6 +52,7 @@
     "static/media/Screenshot 2025-03-24 230632.png": "./static/media/Screenshot 2025-03-24 230632.41317ba3bcae3c1015f1.png",
     "static/media/Screenshot 2025-01-20 194809.png": "./static/media/Screenshot 2025-01-20 194809.a43e34c286004a66ac8d.png",
     "static/media/Screenshot 2024-08-30 135704.png": "./static/media/Screenshot 2024-08-30 135704.d21f590f317b948b0c21.png",
+    "static/media/Screenshot 2025-10-03 010142.png": "./static/media/Screenshot 2025-10-03 010142.21bf87c72ee958763f39.png",
     "static/media/Screenshot 2024-07-23 205733.png": "./static/media/Screenshot 2024-07-23 205733.9fa145e6eeed1c36d030.png",
     "static/media/Screenshot 2025-07-31 213938.png": "./static/media/Screenshot 2025-07-31 213938.949fcd6b8fbf1bc31878.png",
     "static/media/Screenshot 2025-02-21 140959.png": "./static/media/Screenshot 2025-02-21 140959.82a3281e623ba30ce363.png",
@@ -85,11 +88,11 @@
     "static/media/youtube.webp": "./static/media/youtube.0212d0516499993edbbc.webp",
     "index.html": "./index.html",
     "main.38f67978.css.map": "./static/css/main.38f67978.css.map",
-    "main.09c4da1a.js.map": "./static/js/main.09c4da1a.js.map",
+    "main.8810ecc0.js.map": "./static/js/main.8810ecc0.js.map",
     "488.17e6dda1.chunk.js.map": "./static/js/488.17e6dda1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38f67978.css",
-    "static/js/main.09c4da1a.js"
+    "static/js/main.8810ecc0.js"
   ]
 }
