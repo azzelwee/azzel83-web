@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.38f67978.css",
-    "main.js": "./static/js/main.8810ecc0.js",
+    "main.js": "./static/js/main.db8a00c1.js",
     "static/js/488.17e6dda1.chunk.js": "./static/js/488.17e6dda1.chunk.js",
     "static/media/Screenshot 2025-04-17 225156.png": "./static/media/Screenshot 2025-04-17 225156.3662d000f997b4e1307a.png",
     "static/media/Screenshot 2024-10-22 163245.png": "./static/media/Screenshot 2024-10-22 163245.7b02a203379204891af6.png",
@@ -67,6 +67,7 @@
     "static/media/Screenshot 2024-08-09 150016.png": "./static/media/Screenshot 2024-08-09 150016.35bef9376ff22fdf334d.png",
     "static/media/Screenshot 2024-07-29 164913.png": "./static/media/Screenshot 2024-07-29 164913.afe68a6761aa6ad71697.png",
     "static/media/Screenshot 2024-08-01 040534.png": "./static/media/Screenshot 2024-08-01 040534.a5f7d75b929c014a4d8f.png",
+    "static/media/Screenshot 2025-10-16 162956.png": "./static/media/Screenshot 2025-10-16 162956.2e280f3548bf26b9c0cb.png",
     "static/media/Screenshot 2024-10-29 175346.png": "./static/media/Screenshot 2024-10-29 175346.034ed7b7a3ef8a4c5a52.png",
     "static/media/Screenshot 2024-08-14 094918.png": "./static/media/Screenshot 2024-08-14 094918.c94cb24bc7d17ae31bd0.png",
     "static/media/Screenshot 2024-08-24 175424.png": "./static/media/Screenshot 2024-08-24 175424.ccdd51bfa08579e205dc.png",
@@ -88,11 +89,11 @@
     "static/media/youtube.webp": "./static/media/youtube.0212d0516499993edbbc.webp",
     "index.html": "./index.html",
     "main.38f67978.css.map": "./static/css/main.38f67978.css.map",
-    "main.8810ecc0.js.map": "./static/js/main.8810ecc0.js.map",
+    "main.db8a00c1.js.map": "./static/js/main.db8a00c1.js.map",
     "488.17e6dda1.chunk.js.map": "./static/js/488.17e6dda1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38f67978.css",
-    "static/js/main.8810ecc0.js"
+    "static/js/main.db8a00c1.js"
   ]
 }
